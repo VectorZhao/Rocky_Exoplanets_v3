@@ -4,7 +4,7 @@ Our well-trained MDN (Mixture Density Network) model is an innovative computatio
 
 ## Quick Start
 ### Step 1:
-[Fork and clone](https://help.github.com/articles/fork-a-repo) a copy of the `Rocky_Exoplanets_v2` repository to your local machine.
+[Fork and clone](https://help.github.com/articles/fork-a-repo) a copy of the `Rocky_Exoplanets_v3` repository to your local machine.
 
 ### Step 2:
 Download [`Anaconda`](https://www.anaconda.com/products/individual#Downloads) and install it on your machine.
@@ -18,9 +18,9 @@ Activate the `deepexo` environment:
     conda activate deepexo
 
 ### Step 4:
-Change into your local copy of the `Rocky_Exoplanets_v2` repo:
+Change into your local copy of the `Rocky_Exoplanets_v3` repo:
 
-    cd /you own path/Rocky_Exoplanets_v2
+    cd /you own path/Rocky_Exoplanets_v3
 
 ### Step 5:
 Install the requirments for predicing in the current Conda environment:
