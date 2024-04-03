@@ -13,7 +13,13 @@ The `.h5` file contains the well-trained MDN model, capturing the nuanced unders
 The code within this repository, including but not limited to `.ipynb` and `.py` files, is released under the MIT License. See the LICENSE file for more details.
 
 ### Data
-Data files in this repository, such as `.parquet` and `.csv` files, are made available under the CC-BY license. When using these data, please cite the source accordingly.
+The data files within this repository are divided into two main types:
+
+- `.csv` files located in the `mcmc_results` directory contain MCMC inversion results for several representative exoplanets and are made available under the CC-BY license.
+- `.parquet` files, used for training the MDN model with a simulated range of planetary compositions, are also shared under the CC-BY license. 
+
+Please cite the source accordingly when utilizing any of the data.
+
 
 ## Quick Start Guide
 
